@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am a Front-End Developer specializing in building modern, high-performance web applications with React, Next.js, and Vite 🚀<br>Over the past several years, I have developed and delivered a wide range of projects, including admin dashboards 📊, e-commerce frontends 🛒, marketing landing pages 📄, and real-estate web platforms 🏢.<br><br>I focus on creating clean, scalable UI architectures using component-driven development 🧩, efficient state management (Zustand) ⚙️, and utility-first styling with TailwindCSS 🎨. My work emphasizes code quality, maintainability, and performance ⚡, ensuring a smooth user experience across devices 📱💻.<br><br>I enjoy transforming business requirements into intuitive interfaces ✨ and collaborating closely with teams 🤝 to deliver reliable, production-ready solutions ✅. As I continue to grow in front-end engineering, I’m actively looking for opportunities to contribute to modern, user-centric products 🌍💡.<br><br>
+## 💫 About Me
+Front-End Developer with experience building modern web applications using React, Next.js, and Vite. I have worked on admin dashboards, e-commerce platforms, landing pages, and real-estate applications, focusing on scalable architecture and maintainable code.
+
+My daily stack includes TypeScript, React Query, Zustand, Tailwind CSS, and modern testing tools such as Vitest, Testing Library, and Playwright. I enjoy building reusable component systems, improving application performance, and delivering responsive, user-friendly interfaces.
+
+I'm passionate about writing clean, reliable code, collaborating with teams, and continuously learning new technologies to build better products.
 
 
 ## 🌐 Socials:
